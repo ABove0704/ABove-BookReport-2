@@ -1,0 +1,46 @@
+body {
+  width: 100%;
+  max-width: 400px;
+  margin: 10 auto;
+  font: .9em/1.2 Arial, Helvetica, sans-serif: 10px;
+}
+
+.box {
+  float: left;
+  margin-right: 10px;
+  width: 150px;
+  height: 80px;
+  border-radius: 1000px;
+  background-color: lightskyblue;
+  padding: 1em;
+}
+
+.special {
+  background-color: lightgoldenrodyellow;
+  padding:  100px;
+  width: 200px;
+  height: 500px;
+  border-radius: 100px;
+  color:  lightgray;
+  display: flow-root;
+  }
+
+  .wrapper {
+  background-color: lightseagreen;
+  marin-right: 0px;
+  padding: 30px;
+  width: 150px;
+  height:20px;
+  border-radius: 100px;
+  color:  lightgray;
+  display: flow-root;
+  }
+
+h1 {
+  position: static;
+  background-color: lightseagreen;
+  top: 50px;
+  left: 30px;
+  z-index: 1;
+}
+
